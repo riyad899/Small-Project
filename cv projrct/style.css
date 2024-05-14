@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#EEE  ;
+
+}
+.container{
+    max-width:1000px;
+    background-color: rgb(197, 182, 165);
+    margin: 0 auto;
+    padding: 20px;
+}
+.picture{
+
+    width:120px;
+    height:120px;
+    border-radius: 50%;
+    border:3px solid#bf8080;
+    float: left;
+
+}
+.header-bio{
+    float:left ;
+    padding: 30px;
+
+}
+h1,h2,h3,h4,h5{
+    color: rgb(96, 89, 7);
+}
+.info{
+    padding: 30px;
+    float: right;
+}
+.info a{
+
+    text-decoration: none;
+    color: rgb(76, 69, 30);
+     font-weight:  bold;
+
+}
+.info a:hover{
+    color: rgb(204, 46, 46);
+    text-decoration: underline;
+
+
+}
+.div-clear{
+    clear: both;
+}
+hr{
+
+    border:solid rgb(182, 92, 92) 3px;
+    width: 100%;
+    margin: 20x auto;
+    border-bottom: none;
+
+}
+
+.content{
+    margin-bottom: 30px;
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+.right-div{
+    width: 70%;
+   float: left;
+
+}
+.common-hr{
+    border: solidrgb(182, 92, 92) 3px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.edu-temp-left{
+    float: left;
+    width: 45%;
+
+}
+.edu-temp-right{
+    float: right;
+    width: 45%;
+
+}
+.key{
+
+    text-decoration: none;
+
+}
+.bottom-con{
+ background-color: rgb(105, 1, 1);
+ text-align: center;
+ padding: 20px;
+
+}
+.bottom-con a{
+    text-decoration: none;
+    color: #EEE;
+    margin: 20px;
+
+}
+.bottom-con p{
+    text-decoration: none;
+    color: #EEE;
+    margin: 20px;
+
+}
+.bottom-con a:hover{
+    color: rgb(204, 46, 46);
+    text-decoration: underline;
+}
